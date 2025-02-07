@@ -2,7 +2,7 @@
 
 Já sonhou em ter sua própria Pokédex? 
 Agora você pode ter uma (quase) de verdade, direto do seu navegador! 
-Com esta Pokédex digital, você pode pesquisar seus Pokémon favoritos e descobrir informações sobre eles.
+Com esta Pokédex digital, você pode pesquisar seus Pokémon favoritos.
 
 ## Sobre o Projeto
 
